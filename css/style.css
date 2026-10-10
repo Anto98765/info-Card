@@ -104,11 +104,24 @@ ul {
     background-color: rgba(218, 217, 217, 0.459);
     border-radius: 5px;
     width: 92%;
-    text-align:start
+    text-align:start;
+    font-weight: normal;
 }
 
 .content .link i {
     margin-left: 10px;
+}
+
+.content .link .fa-instagram {
+    color: rgb(177, 0, 177);
+}
+
+.content .link .fa-telegram {
+    color: rgb(0, 161, 214);
+}
+
+.content .link .fa-square-linkedin {
+    color: blue;
 }
 
 .content .link a {
